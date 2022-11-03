@@ -1,0 +1,6 @@
+1, Nguyễn Trần Tiến, 2002/01/20, 20/4 Kim Long, Huế, 0935640559, nttien.20it6@vku.udn.vn, 2, Java, Javascript, ReactJS, Axon Active, None, None, None, None, None, None, None
+2, Nguyễn Thị Hiền, 2001/04/04, Ngọc Hồi Kon Tum, Quảng Nam, 0971789653, nthien.20it5@vku.udn.vn, None, None, None, 2024, Giỏi, VKU, None, None, None, None
+3, Nguyễn Văn B, 2002/05/05, 460 Trần Đại Nghĩa, Đà Nẵng, 0123456789, nvb@vku.udn.vn, None, None, None, None, None, None, Software Engineer, 5, VKU, 2024
+1, Nguyễn A, 2002/01/20, 20/4 Kim Long, Huế, 0935640559, nttien.20it6@vku.udn.vn, 2, Java, Javascript, ReactJS, Axon Active, Du lieu Thua, None, None, None, None, None, None
+1, Nguyễn E, 2002/01/20, 20/4 Kim Long, Huế, 0935640559, nttien.20it6vku.udn.vn, 2, Java, Javascript, ReactJS, Axon Active, None, None, None, None, None, None, None
+1, Nguyễn F, 2002/01/20, 20/4 Kim Long, Huế, 093564, nttien.20it6@vku.udn.vn, 2, Java, Javascript, ReactJS, Axon Active, None, None, None, None, None, None, None
