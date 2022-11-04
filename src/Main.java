@@ -96,15 +96,15 @@ public class Main {
                 check++;
             }
         }
-        if(newArr.get(0).equals("1")) {
-            for(int i = 8; i < newArr.size() - 1; i++) {
-                Skill s = new Skill(newArr.get(i));
-                skills.add(s);
-            }
-            if(c.insertDataSkill(skills, empID)) {
-                System.out.println("Them du lieu skill thanh cong");
-            }
-        }
+//        if(newArr.get(0).equals("1")) {
+//            for(int i = 8; i < newArr.size() - 1; i++) {
+//                Skill s = new Skill(newArr.get(i));
+//                skills.add(s);
+//            }
+//            if(c.insertDataSkill(skills, empID)) {
+//                System.out.println("Them du lieu skill thanh cong");
+//            }
+//        }
 
         System.out.println(newArr.toString());
 
@@ -115,9 +115,9 @@ public class Main {
             notificationList.add(noti);
         }
         else {
-            if(c.insertData(newArr, empID)) {
-                System.out.println("Thêm dữ liệu nhân viên vào thành công");
-            }
+//            if(c.insertData(newArr, empID)) {
+//                System.out.println("Thêm dữ liệu nhân viên vào thành công");
+//            }
 
         }
 
